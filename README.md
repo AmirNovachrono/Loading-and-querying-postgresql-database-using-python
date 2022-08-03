@@ -22,8 +22,8 @@ nicely formatted in a tabular format.
 
 2(b). The list of all countries and total number of languages spoken has been obtained using SQL queries and python (pandas groupby function), and have been
 nicely formatted in a tabular format. The language code and language name in the language.json file imported earlier in the code have been mapped to the
-language data in the country table so the name of each language would be displayed in full for better redabilility. 
+language data in the country table so the name of each language would be displayed in full for better readability. 
 
-You can also run the codes the confirm the authenticity.	
+You can also run the codes to confirm the authenticity.	
 
 Thank you.
